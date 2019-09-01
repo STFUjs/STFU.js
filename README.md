@@ -1,0 +1,2 @@
+# STFU.js
+STFU.js
